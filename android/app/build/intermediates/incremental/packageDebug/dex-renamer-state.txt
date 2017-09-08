@@ -1,0 +1,4 @@
+#Fri Sep 08 13:42:43 ART 2017
+base.0=/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

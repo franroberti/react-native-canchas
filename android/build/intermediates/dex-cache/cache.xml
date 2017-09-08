@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_87f23f475df1b2342c8155027c103fd79df3d3f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_46ced02e5dda6200c90b1275c9ff80ac65dbe4d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_27d66103fbfb14a9429e6c566438b86681f17355.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_aa5750bbfd448ca2d32c6b449d1e198a2910fcf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.46.4_1fd363d21bf2101c1f37d9314c16f8094d2a52fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.46.4_f884d19c6737811f2e6dc5f96c7f3c2464740d0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_9a07f2777f4439c575d1d2f8b26fa0f416b9aadd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_91db334b527e0896fd5e669f2015f51966e11884.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8cb1dcf68d89b3835f6b8620276bad0ce2e75a94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_f1b31295be92f01ba61bcf2b9b0bcc31ee1d17ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_d5a2e0eec35d54e0ab7ca708b5cca43d2543ba01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_acf39b1e5953d579c70d8e5045f4bbd7932ca841.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_3d6cb31939a01190ff8b7659225d9f2c05b0d78f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_1ba47d70a4ff44af43c6d5bad6a649d46995c87e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_034e26df1ecb8e10a65015611c92170a2e956d7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_c8c07a2ed8773c9a6daa333e89f382d58b332c4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_35a91d16460feaad7c8ee6afe3dbcf21cfcdb105.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_561624c32b9386461054888d3912ecf808da7e29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_4f184e1a5d1667b6f49aebb4ba9c98b8cc5d08f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_4fb627636e5832a079e9c6ca064faabecff0173a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_80471cd321992c4d0f2be05402c731540c1ea825.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_3dfd474384733bc27d35cf07fc7f4544b4fc30e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_90a5f66bd47d33698f04e4e694a44b6bf4000fb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a4ff18420a8934a9e3216240ba688ec9282bc97a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_866d86e8341e7843bedee43352f922e62d2eee86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_ad03c789af5a02d611c11772da9b9fc4124fa4f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_013af97aa57b0d55c9613e4240b6f9c4627baf3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b3ccc2babea9a884ceb74ff86b197240a1d61adc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ce70f847b573e301dd6384306066f1f579b9d874.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7e84a58f14b03e539c66973b1348dfcc92b37959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_024f78dd7fa008be6290461ae8b8891d7fca006e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_edc03ac2d110b61056a6cae5e45578a59145ba58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_7286d1ae9545bd512984e038ce508baad072db5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_934fef0129e7ea0563ac975e2735d5e4bd6d3804.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_1561aff0a8f19ce2c77496a673dbed245979f13b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_456beae1bfbef6196546d4c957b5e9b726c256ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_93e2fdf72ee13a89b833e0d94ea019c899c7cded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_e7ea4e486c0a517743326a43c02b22b521807cd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/NativebaseKitchenSink/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="21ef913418758caa0a6ddaf988523757aeb488ef">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/NativebaseKitchenSink-react-native-vector-icons-unspecified_49bf7486ffa5e8410aad42a0f4378950a50ae1e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_b4b877bfccfd6c57a4272682d5c4d24b5bf9209a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_959e6df819d4ef8a94d85e8dfecae91b1412473e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/franco/react-native-proyects/FirstProyect/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_e221e6808ae2c328ea9e28bb46817373bebb9b01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/exploded-aar/NativebaseKitchenSink/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="21ef913418758caa0a6ddaf988523757aeb488ef">
+        <dex dex="/home/franco/Desktop/NativeBase-KitchenSink-master/android/app/build/intermediates/pre-dexed/debug/NativebaseKitchenSink-react-native-vector-icons-unspecified_e66cfe5ce0b88163a55c496614ddbd2c51036805.jar" />
+    </item>
+
+</items>
